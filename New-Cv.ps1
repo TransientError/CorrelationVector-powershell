@@ -14,7 +14,7 @@
 
 .LICENSEURI https://raw.githubusercontent.com/TransientError/CorrelationVector-powershell/refs/heads/main/LICENSE.txt
 
-.PROJECTURI 
+.PROJECTURI https://github.com/TransientError/CorrelationVector-powershell
 
 .ICONURI 
 
