@@ -98,7 +98,7 @@ PrivateData = @{
         # Tags = @()
 
         # A URL to the license for this module.
-        LicenseUri = ''
+        LicenseUri = 'https://raw.githubusercontent.com/TransientError/CorrelationVector-powershell/refs/heads/main/LICENSE.txt'
 
         # A URL to the main website for this project.
         # ProjectUri = ''
